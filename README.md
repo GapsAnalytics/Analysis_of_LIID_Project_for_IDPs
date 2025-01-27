@@ -3,3 +3,4 @@ The LIID project aims to empower IDPs in Nigeria, to better access existing huma
 - Co-design and implement a culturally adapted LSE intervention curriculum with IDP communities and local stakeholders in Nigeria
 - Evaluate the effectiveness of a culturally adapted LSE intervention in improving mental health and psychosocial outcomes among IDPs
 - Compare the implementation outcomes of in-person vs. Mobile (WhatsApp) facilitated delivery models for the LSE intervention
+![LIID](https://github.com/user-attachments/assets/cb8eff2b-2848-485a-a862-5e54bd0e67a9)
